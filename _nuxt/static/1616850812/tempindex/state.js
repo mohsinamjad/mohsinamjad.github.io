@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1616850812",layout:"default",error:a,state:{appBarColor:"#4C8BF4",appTitleColor:"#FFF"},serverRendered:true,routePath:"\u002Ftempindex",config:{app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a}},apollo:{defaultClient:Object.create(null)}}}(null));
