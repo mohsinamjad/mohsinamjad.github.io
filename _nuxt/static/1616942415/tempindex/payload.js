@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/tempindex", {data:[{}],fetch:{},mutations:[["SET_APP_BAR_COLOR","#4C8BF4"],["SET_APP_TITLE_COLOR","#FFF"]]});
